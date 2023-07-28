@@ -1,0 +1,32 @@
+{
+    "site": {
+      "header": {
+        "brand": "ACADEMIC TUTORING",
+        "links": ["Home", "About Us", "Services", "Areas", "Contact"]
+      },
+      "footer": [
+        {
+          "title": "Contact",
+          "text":"PERÚ - MÉXICO - ARGENTINA - CHILE - ECUADOR - ESPAÑA"
+        },
+        {
+          "title": "About Us",
+          "text": "We are the answer to the need for a reliable company in academic support services. We strive to maintain the highest level of quality and fulfillment in each of the services we provide. Our focus is to offer you the confidence and assurance you seek to achieve your academic goals successfully."
+        },
+        {
+          "title": "Join as a tutor",
+          "text": "Email",
+          "button": "Join"
+        }
+      ],
+      "home": {
+  
+      },
+      "us": {
+  
+      },
+      "services":{},
+      "areas":{},
+      "contact":{}
+    }
+  }

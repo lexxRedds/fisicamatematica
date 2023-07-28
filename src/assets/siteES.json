@@ -1,0 +1,32 @@
+{
+  "site": {
+    "header": {
+      "brand": "ASESORÍAS ACADÉMICAS",
+      "links": ["Inicio", "Nosotros", "Servicios", "Áreas", "Contacto"]
+    },
+    "footer": [
+      {
+        "title": "Contáctanos",
+        "text":"PERÚ - MÉXICO - ARGENTINA - CHILE - ECUADOR - ESPAÑA"
+      },
+      {
+        "title": "Nosotros",
+        "text": "Somos la solución a tus necesidades de apoyo docente. Nos destacamos por mantener un nivel insuperable de calidad y compromiso en cada servicio que ofrecemos. Nuestro enfoque es brindarte la confianza y seguridad que buscas para alcanzar tus metas académicas con éxito."
+      },
+      {
+        "title": "¿Quieres ser tutor?",
+        "text": "Correo electrónico",
+        "button": "Solicitar"
+      }
+    ],
+    "home": {
+
+    },
+    "us": {
+
+    },
+    "services":{},
+    "areas":{},
+    "contact":{}
+  }
+}
