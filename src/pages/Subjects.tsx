@@ -1,3 +1,9 @@
-export default function Subjects() {
-  return <div>Subjects</div>;
+import styled from 'styled-components';
+
+const StyledMain = styled.main`
+  font-size: 1rem;
+`;
+
+export function Subjects() {
+  return <StyledMain>Subjects</StyledMain>;
 }

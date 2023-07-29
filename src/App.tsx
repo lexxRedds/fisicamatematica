@@ -4,9 +4,17 @@ import {
   Route
 } from "react-router-dom";
 
-import Header from "./common/Header";
-import { Footer } from "./common/Footer";
-import Home from "./pages/Home";
+import { 
+  Header,
+  Footer
+} from "./common";
+import {
+  Contact,
+  Home,
+  Services,
+  Subjects,
+  Us,
+} from "./pages";
 
 function App() {
 
@@ -17,10 +25,13 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/home" element={<Home />} />
+          <Route path="/abut-us" element={<Us />} />
+          <Route path="/services" element={<Services />} />
+          <Route path="/subjects" element={<Subjects />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
         <Footer/>
       </BrowserRouter>
-      
     </>
   )
 }

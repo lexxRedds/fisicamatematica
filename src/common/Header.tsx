@@ -1,3 +1,9 @@
-export default function Header() {
-  return <span>Hello Header</span>
+import styled from 'styled-components';
+
+const StyledHeader = styled.header`
+  font-size: 1rem;
+`;
+
+export function Header() {
+  return <StyledHeader>Hello Header</StyledHeader>
 }
